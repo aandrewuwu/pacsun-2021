@@ -1,5 +1,5 @@
-# Pacsun automated checkout in Node JS
- 
+# Pacsun automated checkout using HTTP requests in Node.JS
+
 In April 2021, Pacsun was rumored to launch the Fear Of God Essentials collection which was reselling on StockX and multiple other platforms for quite a bit of profit.
 Unfortunately because of Demandware & App changes, this code does not function properly.
 
