@@ -4,11 +4,15 @@ In April 2021, Pacsun was rumored to launch the Fear Of God Essentials collectio
 Unfortunately because of Demandware & App changes, this code does not function properly.
 
 # Includes the Akamai Bot Manager bypass when it was worked in 2021
-The URL "on/demandware.store/Sites-pacsun-Site/default/COCheckout-OrderSubmit" is protected by Akamai Bot Manager. 
-However, for some reason, any HTTP method other than POST is allowed to pass through without having a valid Akamai cookie or "_abck" set.
+The URL "on/demandware.store/Sites-pacsun-Site/default/COCheckout-OrderSubmit" is protected by Akamai Bot Manager.
+However for some reason, any HTTP method other than POST is allowed to pass through without having a valid Akamai "_abck" cookie set.
 
 # Usage
 
 ## Install the dependencies
 
 `npm install`
+
+## Run
+
+`node index.js`
