@@ -12,7 +12,6 @@ class pacsunDesktop {
         this.taskData.productDetails = {};
         this.taskData.Analytics = {};
         this.taskData.Analytics.taskTotalTime = +new Date();
-        this.taskData.Analytics.fetchServerInformationAttempts = 0;
         this.taskData.Analytics.searchForProductAttempts = 0;
         this.taskData.Analytics.cartProductAttempts = 0;
         this.taskData.Analytics.startCheckoutAttempts = 0;
